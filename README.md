@@ -44,6 +44,3 @@ git clone https://github.com/PavloPolovyi/taxi-service
 
 5️⃣  Configure TomCat for this project and run it
 
-<h3>Scheme of relations between entities in database</h3>
-
-<img src="img/taxi_models_diagram.jpeg">
