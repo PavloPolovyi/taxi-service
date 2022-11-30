@@ -14,8 +14,7 @@ Presentation layer, Data service layer, Business logic layer and Data access lay
 
 ## <h2>:file_folder: Project structure</h2>
 <p>:point_right:The Presentation layer is represented by jsp pages</p>
-<p>:point_right:Controllers are main components of Data service layer and responsible for working with HTTP methods and  to transmit data processed 
-by BLL to the presentation layer. </p>
+<p>:point_right:Controllers are main components of Data service layer and responsible for working with HTTP methods and transmission of data from BLL to the presentation layer. </p>
 <p>:point_right:Business logic layer consists of services that are responsible for main logic of app</p>
 <p>:point_right:DAO classes represent Data access layer 
 and responsible for CRUD operations with database entities</p>
