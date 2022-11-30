@@ -32,7 +32,7 @@ and responsible for CRUD operations with database entities</p>
 ## <h2>:bomb:Instructions for launching the project:bomb:</h2>
 <h4>To run this project locally, follow these steps:</h4>
 
-1️⃣ You should install TomCat version 9 and MySQL
+1️⃣ You should install <a href="https://tomcat.apache.org/download-90.cgi">TomCat</a> version 9 and <a href="https://dev.mysql.com/downloads/installer/">MySQL</a>
 
 2️⃣  Clone this project from GitHub
 ```bash
