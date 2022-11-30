@@ -25,6 +25,7 @@ and responsible for CRUD operations with database entities</p>
 * Java Servlet API 4.0.1
 * JDBC
 * Jakarta Server Pages
+* JSTL 1.2
 * MySQL 8.0.22
 * TomCat 9.0.68
 
