@@ -1,10 +1,11 @@
-package taxi.service;
+package taxi.service.impl;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.SecureRandom;
 import java.util.Random;
 import taxi.lib.Service;
+import taxi.service.PasswordManager;
 
 @Service
 public class PasswordManagerImpl implements PasswordManager {

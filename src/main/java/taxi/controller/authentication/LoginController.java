@@ -9,7 +9,7 @@ import javax.servlet.http.HttpSession;
 import taxi.exception.AuthenticationException;
 import taxi.lib.Injector;
 import taxi.model.Driver;
-import taxi.service.authentication.AuthenticationService;
+import taxi.service.AuthenticationService;
 
 public class LoginController extends HttpServlet {
     private static final Injector injector = Injector.getInstance("taxi");

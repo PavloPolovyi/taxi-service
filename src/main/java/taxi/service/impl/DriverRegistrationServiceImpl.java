@@ -1,4 +1,4 @@
-package taxi.service.registration;
+package taxi.service.impl;
 
 import java.util.Optional;
 import taxi.exception.RegistrationException;
@@ -7,6 +7,7 @@ import taxi.lib.Service;
 import taxi.model.Driver;
 import taxi.service.DriverService;
 import taxi.service.PasswordManager;
+import taxi.service.DriverRegistrationService;
 
 @Service
 public class DriverRegistrationServiceImpl
