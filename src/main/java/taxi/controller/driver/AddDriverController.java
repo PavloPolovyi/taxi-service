@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import taxi.exception.RegistrationException;
 import taxi.lib.Injector;
-import taxi.service.registration.DriverRegistrationService;
+import taxi.service.DriverRegistrationService;
 
 public class AddDriverController extends HttpServlet {
     private static final Injector injector = Injector.getInstance("taxi");

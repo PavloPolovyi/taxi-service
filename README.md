@@ -1,8 +1,8 @@
 # :oncoming_taxi: Taxi-service :oncoming_taxi:
 <h2>📣 Project description 📣</h2>
 This is a simple web application that supports registration, authentication and simple CRUD operations.
-It follows SOLID patterns and built up according to N-tier architecture. It consists of 4 layers:
-Presentation layer, Data service layer, Business logic layer and Data access layer.
+It follows SOLID patterns and built up according to N-tier architecture. It consists of 3 layers:
+Presentation layer, Business logic layer and Data access layer.
 
 ## <h2>:bookmark_tabs: Features</h2>
 * Registration as driver
@@ -13,11 +13,12 @@ Presentation layer, Data service layer, Business logic layer and Data access lay
 * Logout option
 
 ## <h2>:file_folder: Project structure</h2>
-<p>:point_right:The Presentation layer is represented by jsp pages</p>
-<p>:point_right:Controllers are main components of Data service layer and responsible for working with HTTP methods and transmission of data from BLL to the presentation layer. </p>
-<p>:point_right:Business logic layer consists of services that are responsible for main logic of app</p>
-<p>:point_right:DAO classes represent Data access layer 
-and responsible for CRUD operations with database entities</p>
+<p>:point_right:Controllers are main components of Presentation layer 
+and responsible for receiving user requests and giving response with jsp page</p>
+<p>:point_right:Business logic layer consists of services that are 
+responsible for transmission of data to controllers</p>
+<p>:point_right:DAO classes represent Data access layer and responsible for CRUD operations 
+with database entities</p>
 
 ## <h2>Technologies</h2>
 * Java 11

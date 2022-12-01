@@ -1,4 +1,4 @@
-package taxi.service.registration;
+package taxi.service;
 
 import taxi.exception.RegistrationException;
 import taxi.model.Driver;
