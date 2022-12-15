@@ -1,7 +1,7 @@
 # :oncoming_taxi: Taxi-service :oncoming_taxi:
 <h2>📣 Project description 📣</h2>
 This is a simple web application that supports registration, authentication and simple CRUD operations.
-It follows SOLID patterns and built up according to N-tier architecture. It consists of 3 layers:
+It follows SOLID patterns and is built up according to N-tier architecture. It consists of 3 layers:
 Presentation layer, Business logic layer and Data access layer.
 
 ## <h2>:bookmark_tabs: Features</h2>
